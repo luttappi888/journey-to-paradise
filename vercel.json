@@ -1,0 +1,4 @@
+{
+  "cleanUrls": true,
+  "crons": [{ "path": "/api/reminders", "schedule": "30 3 * * *" }]
+}
